@@ -5,13 +5,13 @@ const Boton = () =>{
     const cambiarBoton = selected => ()=>{
         switch(selected){
             case 1:
-                document.getElementById("mostrar").src="https://w7.pngwing.com/pngs/50/72/png-transparent-giraffe-northern-giraffe-neck-zoo-animal-giraffe-game-mammal-animals-thumbnail.png";
+                document.getElementById("mostrar").src="https://st.depositphotos.com/1594920/1698/i/600/depositphotos_16982455-stock-photo-somali-giraffe-commonly-known-as.jpg";
             break;
             case 2:
                 document.getElementById("mostrar").src="https://i.pinimg.com/474x/d0/10/7c/d0107c676a7557e0edc62b832c93233c.jpg";
             break;
             case 3: 
-                document.getElementById("mostrar").src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJuAOR_8sLOxpwLpqpYkYJJCf80s8QX3ztxQ&usqp=CAU"
+                document.getElementById("mostrar").src="https://s1.1zoom.me/big0/690/Cats_White_background_Glance_Paws_567619_1167x1024.jpg"
             break;
             case 4: 
                 document.getElementById("mostrar").src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSL76eT6fBrO_10D4eiia0aGkQ1MXF_yFFlg&usqp=CAU";
